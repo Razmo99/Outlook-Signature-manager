@@ -1,0 +1,9 @@
+Kind Regards,
+
+@FullName
+@Title
+@Address
+Telephone: @TNumber
+Mobile : @MNUmber
+
+@Flex
